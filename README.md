@@ -1,6 +1,48 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Advanced Digital Marketing Mastery</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f7f7f7;
+      text-align: center;
+      padding: 40px;
+    }
+    h1 {
+      color: #1a73e8;
+    }
+    p {
+      font-size: 18px;
+      margin: 20px auto;
+      max-width: 600px;
+    }
+    a.button {
+      background-color: #1a73e8;
+      color: white;
+      padding: 15px 25px;
+      text-decoration: none;
+      border-radius: 5px;
+      display: inline-block;
+      margin-top: 20px;
+    }
+    a.button:hover {
+      background-color: #0c59c0;
+    }
+  </style>
+</head>
+<body>
+  <h1>🚀 Welcome to Digital Marketing Mastery!</h1>
+  <p>This site is designed to help you become a pro at digital marketing. Learn strategies, tools, and secrets to grow online.</p>
+  <a href="https://trendskil.com/sponser/?id=821" class="button">Start Learning Now</a>
+</body>
+</html>
+``
+<!DOCTYPE html>
+<html lang="en">
+<head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Abhi's Digital Marketing</title>
