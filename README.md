@@ -1,30 +1,32 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Digital Marketing Courses</title>
-  <style>
-    body {
-      font-family: sans-serif;
-      background: #f5f5f5;
-      margin: 0;
-      padding: 20px;
-    }
-    h1 {
-      text-align: center;
-      color: #222;
-    }
-    .container {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 20px;
-    }
-    .card {
-      background: #fff;
-      border-radius: 10px;
-      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+<div class="card">
+  <img src="course_1.jpg" alt="Course 1" />
+  <h3>Course 1</h3>
+  <button onclick="window.location.href='YOUR_AFFILIATE_LINK_1'">Buy Now</button>
+</div>
+
+<div class="card">
+  <img src="course_2.jpg" alt="Course 2" />
+  <h3>Course 2</h3>
+  <button onclick="window.location.href='YOUR_AFFILIATE_LINK_2'">Buy Now</button>
+</div>
+
+<div class="card">
+  <img src="course_3.jpg" alt="Course 3" />
+  <h3>Course 3</h3>
+  <button onclick="window.location.href='YOUR_AFFILIATE_LINK_3'">Buy Now</button>
+</div>
+
+<div class="card">
+  <img src="course_4.jpg" alt="Course 4" />
+  <h3>Course 4</h3>
+  <button onclick="window.location.href='YOUR_AFFILIATE_LINK_4'">Buy Now</button>
+</div>
+
+<div class="card">
+  <img src="course_5.jpg" alt="Course 5" />
+  <h3>Course 5</h3>
+  <button onclick="window.location.href='YOUR_AFFILIATE_LINK_5'">Buy Now</button>
+</div>
       overflow: hidden;
       width: 300px;
       text-align: center;
