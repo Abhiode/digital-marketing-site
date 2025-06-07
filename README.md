@@ -1,3 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Abhi's Digital Marketing</title>
+</head>
+<body>
+  <h1>Welcome to My Digital Marketing Page!</h1>
+  <p>This is a live website hosted on GitHub Pages 🎉</p>
+</body>
+</html>
 <div class="card">
   <img src="course_1.jpg" alt="Course 1" />
   <h3>Course 1</h3>
